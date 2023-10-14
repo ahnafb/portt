@@ -1,0 +1,49 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .navbar {
+    background-color: #354259; /* Dark blue background color */
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem; /* Increase the navbar brand font size */
+  }
+  
+  .navbar-nav .nav-link {
+    padding: 1rem 1.5rem; /* Add padding to navbar links */
+  }
+  
+  /* styles.css */
+  
+  .rounded-circle.mx-auto {
+    /* Your styles for the image with class "rounded-circle mx-auto" */
+    max-width: 20%; /* Set the maximum width of the image to 100% */
+    height: auto; /* Allow the image to scale proportionally */
+    display: block; /* Remove any extra space reserved for descenders */
+    margin: 0 auto; /* Center the image horizontally within its parent */
+    border-radius: 50%; /* Apply a rounded border to make the image a circle */
+  }
+  
+  
+  .bg-body-tertiary {
+    background-color: #f8f9fa; /* Light gray background color for the home section */
+  }
+  
+  .container {
+    margin-top: 2rem; /* Add margin space at the top of the content */
+  }
+  
+  .about {
+    padding: 4rem 0; /* Add padding to the about section */
+    background-color: #ffffff; /* White background color for the about section */
+  }
+  
+  footer {
+    background-color: #354259; /* Dark blue background color for the footer */
+    color: #ffffff; /* White text color for the footer */
+    text-align: center;
+    padding: 1rem;
+  }
+  
